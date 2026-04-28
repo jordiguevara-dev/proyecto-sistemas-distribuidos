@@ -1,0 +1,4 @@
+com\neptuno\middleware\model\Producto.class
+com\neptuno\middleware\MiddlewareApplication.class
+com\neptuno\middleware\controller\ProductoController.class
+com\neptuno\middleware\repository\ProductoRepository.class
